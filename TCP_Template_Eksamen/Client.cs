@@ -9,6 +9,7 @@ using System.IO;
 
 namespace TCP_Template_Eksamen
 {
+    //Eksamen
     class Client
     {
         public void Start()
